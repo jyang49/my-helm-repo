@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  06-pod-values:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2019-12-29T12:01:44.282184-08:00"
+    description: A Helm chart for Kubernetes
+    digest: 203d16ab707ae22809af5b913dd6a736e02ab086ae7a93aa307197a79d25e753
+    name: 06-pod-values
+    type: application
+    urls:
+    - 06-pod-values-0.1.0.tgz
+    version: 0.1.0
+generated: "2019-12-29T12:01:44.279084-08:00"
